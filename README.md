@@ -1,7 +1,7 @@
 # Credit Conditions and Economic Activity in the US: The Role of the Corporate Spread (2010–2019)
 
 ## Project Overview
-This research examines the predictive power of the corporate credit spread on U.S. economic activity during the post-subprime crisis period (**2010–2019**). 
+This research examines the predictive power of the corporate credit spread on US economic activity during the post-subprime crisis period (**2010–2019**). 
 
 The study utilizes monthly time-series data, focusing on:
 * **Industrial Production (IP):** Proxy for real economic activity.
