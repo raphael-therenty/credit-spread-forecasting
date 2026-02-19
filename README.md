@@ -1,4 +1,4 @@
-# Credit Conditions and Economic Activity in the U.S.: The Role of the Corporate Spread (2010–2019)
+# Credit Conditions and Economic Activity in the US: The Role of the Corporate Spread (2010–2019)
 
 ## Project Overview
 This research examines the predictive power of the corporate credit spread on U.S. economic activity during the post-subprime crisis period (**2010–2019**). 
@@ -27,8 +27,7 @@ The project follows a rigorous econometric workflow to ensure robust results:
 ## Project Structure
 * `data/`: Raw and processed CSV files.
 * `scripts/`: R scripts for data cleaning, VAR/VECM estimation, and diagnostic tests.
-* `results/`: Plots of Impulse Response Functions (IRF) and stationarity test tables.
-* `report/`: The final research paper/memo in PDF format.
+* `results/`: The final research paper/memo in PDF format.
 
 ## Requirements
 To replicate this analysis, you will need **R** and the following packages:
