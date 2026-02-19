@@ -11,7 +11,7 @@ The study utilizes monthly time-series data, focusing on:
 ## Methodology
 The project follows a rigorous econometric workflow to ensure robust results:
 
-1.  **Stationarity Testing:** Augmented Dickey-Fuller (ADF) and Phillips-Perron tests to determine integration orders.
+1.  **Stationarity Testing:** Augmented Dickey-Fuller (ADF), Phillips-Perron (PP), Kwiatkowski-Phillips-Schmidt-Shin (KPSS) and Elliott-Rothenberg-Stock (ERS) tests to determine integration orders.
 2.  **Univariate Modeling:** Estimation of an **ARIMA** model for baseline forecasting.
 3.  **Multivariate Dynamics:** Implementation of a **Vector Autoregression (VAR)** model to capture interdependencies.
 4.  **Long-term Equilibrium:** * **Engle-Granger** & **Johansen** Cointegration tests.
